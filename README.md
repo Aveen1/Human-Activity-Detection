@@ -23,4 +23,10 @@ I've only used 2 classes Reading and Texting message out of it.
 For further problems you can take reference from this link:
 https://colab.research.google.com/drive/1WXpXOlUj5f7xdoPqvYy5V7pYWaJciBrY
 
-We can use the same model yolov3 for custom action detection or object detection.
+We can use the same model yolov3 for custom action detection or object detection.:woman_technologist:
+
+![GitHub Logo](/5.png)
+
+![GitHub Logo](/21.png)
+
+![GitHub Logo](/12.png)
